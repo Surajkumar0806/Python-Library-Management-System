@@ -1,0 +1,23 @@
+[
+    {
+        "member_id": 160,
+        "name": "Srushti",
+        "phone": 123123,
+        "email": "fdaf;F@arweq",
+        "borrowed_books": []
+    },
+    {
+        "member_id": 170,
+        "name": "Suraj",
+        "phone": 3124324,
+        "email": "sfasj;d@sfds",
+        "borrowed_books": []
+    },
+    {
+        "member_id": 123,
+        "name": "Member1",
+        "phone": 123123231,
+        "email": "member1@gmail.com",
+        "borrowed_books": []
+    }
+]

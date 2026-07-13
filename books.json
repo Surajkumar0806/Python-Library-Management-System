@@ -1,0 +1,26 @@
+[
+    {
+        "book_id": 101,
+        "title": "Clean Code",
+        "author": "Suraj",
+        "section": "Programming",
+        "total_copies": 6,
+        "available_copies": 3
+    },
+    {
+        "book_id": 102,
+        "title": "Python Book",
+        "author": "Srushti",
+        "section": "Programming",
+        "total_copies": 5,
+        "available_copies": 5
+    },
+    {
+        "book_id": 10,
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "section": "Self Development",
+        "total_copies": 5,
+        "available_copies": 5
+    }
+]
